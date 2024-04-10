@@ -1,4 +1,4 @@
-<img  alt="Harinii" width="100%" src="./edit.gif.gif">
+<img  alt="Harinii" width="100%" src="./edit2.gif">
 <h1 align="center">Hi 👋, I'm HARINI</h1>
 <h3 align="center">A passionate frontend developer!! Aspiring hacking defender!!</h3>
 <img align="right" alt="Coding" width="400" 
