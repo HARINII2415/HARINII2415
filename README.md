@@ -7,7 +7,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinii2415&label=Profile%20views&color=0e75b6&style=flat" alt="harinii2415" /> </p>
 
-- 🌱 I’m currently learning **springboot**
+- 🌱 I’m currently learning **REACT JS**
 
 - 👯 I’m looking to collaborate on **to collaborate on frontend projects...**
 
@@ -16,6 +16,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 💬 Ask me about **Ethical Hacking**
 
 - 📫 How to reach me **harinii2415@gmail.com**
+- <img  alt="Harinii" height ="350px" width="100%" src="./edit6.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
