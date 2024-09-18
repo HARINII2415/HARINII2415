@@ -34,8 +34,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinii2415&show_icons=true&locale=en" alt="harinii2415" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinii2415&" alt="harinii2415" /></p>
-
 
 
 
