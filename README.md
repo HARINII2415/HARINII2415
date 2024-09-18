@@ -32,7 +32,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinii2415&show_icons=true&locale=en&layout=compact" alt="harinii2415" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinii2415&show_icons=true&locale=en" alt="harinii2415" /></p>
 
 
 
