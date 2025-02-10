@@ -62,6 +62,12 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ---
+## Certifications 🏆  
+
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-Python%20Certified-brightgreen?style=for-the-badge&logo=hackerrank)  
+![Cisco Badge](https://img.shields.io/badge/Cisco-Data%20Science-blue?style=for-the-badge&logo=cisco)  
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft-Azure%20Certified-0078D4?style=for-the-badge&logo=microsoft)  
+
 
 ### 📊 GitHub Stats:
 <p align="center">
