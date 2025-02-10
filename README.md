@@ -1,4 +1,4 @@
-![Harini Banner](./edit55 (2).gif)
+![Harini Banner](./edit7.gif)
 
 <h1 align="center">Hi 👋, I'm HARINI</h1>
 <h3 align="center">A Passionate Frontend Developer🧑‍💻 & Aspiring Data Analyst 🚀</h3>
