@@ -72,8 +72,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinii2415&layout=compact&theme=radical" alt="Top Languages" />
+</p><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harinii2415&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinii2415&theme=radical" alt="Streak Stats" />
 </p>
