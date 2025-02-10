@@ -15,8 +15,8 @@
 
 ### 🚀 About Me:
 - 🌱 I’m currently learning **Microsoft Azure**
-- 👯 I’m looking to collaborate on **Frontend & Cybersecurity Projects**
-- 💬 Ask me about **Ethical Hacking, React, SQL, Python**
+- 👯 I’m looking to collaborate on **Frontend & Data Analytics Projects**
+- 💬 Ask me about **Ethical Hacking, Pandas, SQL, Python**
 - 🔗 My Portfolio: [harinii2415.github.io](https://harinii2415.github.io)
 - 📫 Reach me at: **harinii2415@gmail.com**
 
@@ -59,7 +59,8 @@
 
 #### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ---
 
 ### 📊 GitHub Stats:
