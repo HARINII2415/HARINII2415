@@ -13,30 +13,58 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px"/>
 </p>
 
-## 💫 About Me!
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+## 💫 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-<img align="right" height="200" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"/>
+<img align="right" height="210" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 - 🎓 Final-year B.Tech IT student from **MKCE, Karur**
-- 🔍 Passionate about **Data Science, Data Analytics & ML**
-- 💡 Built projects using **Python, Streamlit, Django, React**
-- 🌱 Currently learning **ReactJS + Flask**, aiming for high-package full stack roles
-- 🛠️ Loves solving real-world problems and presenting insights visually
-- 💖 Always brings a touch of creativity into every line of code!
+- 🔍 Passionate about **Data Science, Data Analytics & Machine Learning**
+- 💡 Built projects using **Python, Streamlit, Django, React**, and ML models
+- 🌱 Currently learning **ReactJS + Flask**, focusing on full stack development
+- 🛠️ Solving real-world problems and converting data into visual insights
+- 💖 Believes in creativity, consistency & continuous learning!
 
+## 💻 Tech Stack & Skills
 
-## 🧠 Tech Stack
-
-<p align="center">
+### 👩‍💻 Programming Tools:
+<p>
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-FFC0CB?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF1493?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-FF69B4?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+### 📊 Data Analysis Tools:
+<p>
+  <img src="https://img.shields.io/badge/Excel-FFC0CB?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
+
+### ☁️ Technical Skills:
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+### 🎨 Designing Tools & Web:
+<p>
+  <img src="https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS Office Suite-FF69B4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🌟 Other Skills:
+<p>
+  <img src="https://img.shields.io/badge/Problem Solving-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team Player-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptable-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt Engineering-FF69B4?style=for-the-badge" />
+</p>
+
 
 ---
 
