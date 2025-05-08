@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harini+A;Aspiring+Data+Scientist;Analytics+Enthusiast;Python+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Python+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
 </p>
 
 
@@ -15,7 +15,7 @@
 
 ## 💫 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-<img align="right" height="210" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" height="210" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"/>
 
 - 🎓 Final-year B.Tech IT student from **MKCE, Karur**
 - 🔍 Passionate about **Data Science, Data Analytics & Machine Learning**
