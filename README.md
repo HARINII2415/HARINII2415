@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Vanakkam+%F0%9F%91%8B+I'm+Harini+A;Aspiring+Data+Scientist+%7C+Analytics+Enthusiast;Python+Full+Stack+Learner;AI+Project+Builder+with+Love+%E2%9D%A4%EF%B8%8F" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harini+A;Aspiring+Data+Scientist;Analytics+Enthusiast;Python+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
 </p>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" height="40px">  
@@ -12,17 +13,18 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px"/>
 </p>
 
-## 💫 About Me
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+## 💫 About Me!
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"/>
 
 - 🎓 Final-year B.Tech IT student from **MKCE, Karur**
 - 🔍 Passionate about **Data Science, Data Analytics & ML**
 - 💡 Built projects using **Python, Streamlit, Django, React**
-- 🌱 Currently exploring **ReactJS + Flask**, and preparing for **high-package full stack roles**
-- 🛠️ Always excited to turn **real-world problems** into working tech solutions!
-- 💖 Loves learning, designing, and making things aesthetic!
+- 🌱 Currently learning **ReactJS + Flask**, aiming for high-package full stack roles
+- 🛠️ Loves solving real-world problems and presenting insights visually
+- 💖 Always brings a touch of creativity into every line of code!
+
 
 ## 🧠 Tech Stack
 
