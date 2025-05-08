@@ -24,7 +24,7 @@
 - 🌱 Currently learning **ReactJS + Flask**, focusing on full stack development
 - 🛠️ Solving real-world problems and converting data into visual insights
 - 💖 Believes in creativity, consistency & continuous learning!
-"/>
+  
 
 
 
