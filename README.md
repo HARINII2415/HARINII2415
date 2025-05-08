@@ -13,11 +13,9 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px"/>
 </p>
 
-## 💫 About Me
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-<img align="right" height="210" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"/>
-
+<img align="right" height="210" src="https://media.gifdb.com/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"/>
 - 🎓 Final-year B.Tech IT student from **MKCE, Karur**
 - 🔍 Passionate about **Data Science, Data Analytics & Machine Learning**
 - 💡 Built projects using **Python, Streamlit, Django, React**, and ML models
