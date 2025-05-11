@@ -21,7 +21,7 @@
 - 🎓 Final-year B.Tech IT student from **MKCE, Karur**
 - 🔍 Passionate about **Data Science, Data Analytics & Machine Learning**
 - 💡 Built projects using **Python, Streamlit, Django, React**, and ML models
-- 🌱 Currently learning **ReactJS + Flask**, focusing on full stack development
+- 🌱 Currently learning **ReactJS + Spring Boot**, focusing on full stack development
 - 🛠️ Solving real-world problems and converting data into visual insights
 - 💖 Believes in creativity, consistency & continuous learning!
   
