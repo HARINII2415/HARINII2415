@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Python+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
 </p>
 
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" height="40px">  
   Harini A 
@@ -13,7 +12,7 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px"/>
 </p>
 
-## 💫 About Me
+## ✫ About Me
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
 <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
@@ -24,9 +23,6 @@
 - 🌱 Currently learning **ReactJS + Spring Boot**, focusing on full stack development
 - 🛠️ Solving real-world problems and converting data into visual insights
 - 💖 Believes in creativity, consistency & continuous learning!
-  
-
-
 
 ## 💻 Tech Stack & Skills
 
@@ -69,7 +65,6 @@
   <img src="https://img.shields.io/badge/Prompt Engineering-FF69B4?style=for-the-badge" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -107,4 +102,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
 </p>
-
