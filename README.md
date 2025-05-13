@@ -79,6 +79,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARINII2415&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" width="80%"/>
 </div>
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARINII2415&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true"/>
+</p>
+
 ---
 
 ## 🚀 Projects Highlight
