@@ -88,9 +88,12 @@
 </p>
 ### 📈 GitHub Overall Score (Metrics)
 
+### 📈 GitHub Profile Metrics
+
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=HARINII2415&theme=pink&config.timezone=Asia%2FCalcutta" />
+  <img src="https://github.com/HARINII2415/HARINII2415/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 ---
 
