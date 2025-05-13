@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Python+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Java+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro" />
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 </p>
 
 ## ✫ About Me
@@ -29,6 +29,7 @@
 ### 👩‍💻 Programming Tools:
 <p>
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-FF69B4?style=for-the-badge" />
@@ -46,6 +47,8 @@
 ### ☁️ Technical Skills:
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-FFC0CB?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ### 🎨 Designing Tools & Web:
@@ -83,7 +86,7 @@
 | Project | Stack | Description |
 |--------|-------|-------------|
 | 🌿 **Skin Cancer Risk Detection** | Python + Streamlit | Predicts cancer levels using ML model |
-| 🌦️ **React Weather App** | ReactJS + API | Weather forecast app with live API |
+| 🌦️ ** Weather App** | ReactJS + API + SpringBoot | Weather forecast app with live API |
 | 🎵 **Music App** | ReactJS | Frontend music player UI |
 | 📊 **HbA1c Diabetes Detection** | Python + ML | Streamlit UI with model integration |
 
