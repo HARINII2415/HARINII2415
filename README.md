@@ -77,15 +77,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARINII2415&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=0d1117" width="49%"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARINII2415&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" width="80%"/>
-  <p align="center">
-  <img src="https://github-metrics.lecoq.io/HARINII2415?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true&config.padding=5&config.display=large&config.colors=ff69b4" />
-</p>
+ 
+
 
 </div>
 
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARINII2415&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true"/>
+</p>
+### 📈 GitHub Overall Score (Metrics)
+
+<p align="center">
+  <img src="https://github-metrics.vercel.app/api?username=HARINII2415&theme=pink&config.timezone=Asia%2FCalcutta" />
 </p>
 
 ---
