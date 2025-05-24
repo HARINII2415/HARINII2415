@@ -85,7 +85,13 @@
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARINII2415&theme=react-dark&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true"/>
-<img src="https://raw.githubusercontent.com/HARINII2415/HARINII2415/output/snake.svg" width="80%"/>
+<h3 align="left">Github contributions:</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/HARINII2415/HARINII2415/output/snake.svg" alt="Snake animation" />
 </p>
 
 
