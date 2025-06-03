@@ -22,6 +22,7 @@
 - 🎯 Building solutions that blend **logic + design + empathy**
 - 💕 Love colors, dashboards, animations & meaningful data
 - 📈 On a mission to grow into a **creative data engineer**
+- 😶‍🌫️ All my projects are visible in https://harinii2415.github.io/
 
 ---
 
