@@ -66,7 +66,7 @@
 ## ✨ Projects That Spark 🔥
 
 ### 🌿 Skin Cancer Risk Detector
-*Tech Stack: Python, Scikit-learn, Streamlit, TensorFlow/Keras*
+*Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`TensorFlow/Keras\`
 <br>
 An intuitive web application that predicts skin cancer risk using image analysis (CNNs) and clinical data inputs.
 <p>
@@ -75,13 +75,12 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_SKIN" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live App"/>
+    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/>
   </a>
 </p>
-<br>
 
 ### 🌦️ WeatherMate Real-Time Forecaster
-*Tech Stack: React, Spring Boot, OpenWeatherAPI, RESTful APIs*
+*Tech Stack:* \`React\`, \`Spring Boot\`, \`OpenWeatherAPI\`, \`RESTful APIs\`
 <br>
 A dynamic application delivering real-time weather forecasts and conditions globally, using the OpenWeatherMap API.
 <p>
@@ -90,13 +89,12 @@ A dynamic application delivering real-time weather forecasts and conditions glob
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_WEATHER" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live App"/>
+    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/>
   </a>
 </p>
-<br>
 
 ### 🎶 Elegant Music Player UI
-*Tech Stack: React, Tailwind CSS, Figma (for design)*
+*Tech Stack:* \`React\`, \`Tailwind CSS\`, \`Figma (for design)\`
 <br>
 A sleek, responsive, and visually appealing front-end user interface designed for a modern music player application.
 <p>
@@ -105,13 +103,12 @@ A sleek, responsive, and visually appealing front-end user interface designed fo
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_MUSIC" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-<br>
 
 ### 🧬 HbA1c Diabetes Prediction System
-*Tech Stack: Python, Pandas, Scikit-learn, Streamlit*
+*Tech Stack:* \`Python\`, \`Pandas\`, \`Scikit-learn\`, \`Streamlit\`
 <br>
 A health analytics web application to predict diabetes risk based on HbA1c levels and other patient correlational data.
 <p>
@@ -120,13 +117,12 @@ A health analytics web application to predict diabetes risk based on HbA1c level
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_DIABETES" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live App"/>
+    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/>
   </a>
 </p>
-<br>
 
 ### 🛍️ Full-Stack E-Commerce Platform
-*Tech Stack: Java, Spring Boot, React, MySQL, Docker*
+*Tech Stack:* \`Java\`, \`Spring Boot\`, \`React\`, \`MySQL\`, \`Docker\`
 <br>
 A comprehensive online shopping website with features like product catalog, user authentication, and order management.
 <p>
@@ -135,13 +131,12 @@ A comprehensive online shopping website with features like product catalog, user
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_ECOMMERCE" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-<br>
 
 ### 📝 AI-Powered Content Summarizer
-*Tech Stack: Python, FastAPI, Hugging Face Transformers, Next.js*
+*Tech Stack:* \`Python\`, \`FastAPI\`, \`Hugging Face Transformers\`, \`Next.js\`
 <br>
 A web service that leverages pre-trained NLP models to generate concise summaries of long texts or articles.
 <p>
@@ -150,10 +145,9 @@ A web service that leverages pre-trained NLP models to generate concise summarie
   </a>
   &nbsp;
   <a href="YOUR_DEMO_LINK_HERE_SUMMARIZER" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20API-%23FF69B4.svg?style=for-the-badge&logo=Dependabot&logoColor=white" alt="Live API"/>
+    <img src="https://img.shields.io/badge/Live%20API-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live API"/>
   </a>
 </p>
-<br>
 
 ---
 
@@ -164,7 +158,7 @@ A web service that leverages pre-trained NLP models to generate concise summarie
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARINII2415&layout=compact&theme=radical&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117&border_radius=10&hide_border=true&langs_count=10&cache_seconds=1800&hide=jupyter%20notebook" alt="Harini's Top Languages"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARINII2415&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border_radius=10&hide_border=true&cache_seconds=1800&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=FF69B4&dates=C9D1D9" alt="Harini's GitHub Streak" style="max-width: 90%;"/>
+  <img src="https://github-readme-streak-stats.vercel.app/api/?user=HARINII2415&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border_radius=10&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" alt="Harini's GitHub Streak" style="max-width: 90%;"/>
 </p>
 
 ---
