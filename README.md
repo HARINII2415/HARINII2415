@@ -1,21 +1,23 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=1000&lines=Vanakkam+🥰+I'm+Harini+A.;Full+Stack+Developer+💻;Data+Science+%7C+Analytics+Enthusiast📊;React+SpringBoot+Learner🚀;Welcome+to+my+Tech+Universe+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist+💻;Analytics+Enthusiast+📊;Java+Full+Stack+Learner+🚀;Creative+Tech+Explorer+✨" alt="Typing Intro" />
 </p>
 
 <!-- Header Banner -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40"/>  
-  Harini A  
-  <img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" height="40px">  
+  Harini A 
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="40px" />
 </h1>
 
-<!-- Center Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 </p>
 
+
+
 ---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HARINII2415)
 
 ## 🌸 About Me
 
