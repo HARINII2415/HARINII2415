@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/-Streamlit%20Apps-FF9A8B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Apps Badge"/>
   <img src="https://img.shields.io/badge/-PowerBI%20Analytics-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI Analytics Badge"/>
   <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Developer Badge"/>
-  <img src="https://img.shields.io/badge/-Cloud%20Native-87CEFA?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native Badge"/>
+  
   <img src="https://img.shields.io/badge/-Problem%20Solver-FF69B4?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solver Badge"/>
   <img src="https://img.shields.io/badge/-Team%20Player-FFC0CB?style=for-the-badge&logoColor=black" alt="Team Player Badge"/>
 </p>
