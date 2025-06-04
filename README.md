@@ -119,7 +119,7 @@ Empowering women's health by predicting cycle trends, irregularities, and giving
 
 <p> <a href="https://github.com/HARINII2415/-Menstrual-cycle-Personal-Recommender-Leo-AI" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://menstrual-cycle-personal-recommender-leo-2dfa.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p><br><br>
 <h3> 🎮 Gesture-Controlled Gaming App</h3>
-Tech Stack: Python, OpenCV, MediaPipe, PyAutoGUI
+Tech Stack: Python, OpenCV, MediaPipe, PyAutoGUI<br>
 A fun AI project where hand gestures control game interactions in real time using computer vision!
 
 <p> <a href="https://github.com/HARINII2415/Gesture_Game_Subway_Surfers-" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; </a> </p>
