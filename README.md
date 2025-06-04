@@ -168,12 +168,12 @@ A fun AI project where hand gestures control game interactions in real time usin
 <p align="center">
 🧠 CEO & Founder – Thinkbotics
 🚀 Freelance Tech Company for Data Science & Full Stack Projects
-📍 Based in India | 🌍 Serving Clients Online
+📍 Based in India | 🌍 Serving Clients-Online
 📩 harinii2415@gmail.com
 
 
 </p>
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer&width=100%" alt="Waving Footer Animation"/>
