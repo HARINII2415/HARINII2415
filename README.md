@@ -79,20 +79,20 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
 </p>
 <br><br>
-### ❤️ Cardiovascular Disease Detector
-
-**Tech Stack:** `Python`, `Scikit-learn`, `Streamlit`, `TensorFlow/Keras`  
-A clinical data-driven ML model to predict heart disease risk using logistic regression and data visualization.
-
+### 🌿 Skin Cancer Risk Detector
+*Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`TensorFlow/Keras\`
+<br>
+An intuitive web application that predicts skin cancer risk using image analysis (CNNs) and clinical data inputs.
 <p>
-  <a href="https://github.com/HARINII2415/heart_disease_detector" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/HARINII2415/skin_cancer_detection" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
   &nbsp;
-  <a href="https://cardio-risk-detector.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://melanoma-lesion-dedector.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/>
   </a>
 </p>
+<br><br>
 
 
 
