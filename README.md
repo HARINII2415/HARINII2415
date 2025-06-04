@@ -79,9 +79,9 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
 </p>
 <br><br>
-### 🫀 Heart Disease Risk Detector
-
-**Tech Stack:** `Python`, `Scikit-learn`, `Streamlit`, `TensorFlow/Keras`
+### 🌿 Skin Cancer Risk Detector
+*Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`TensorFlow/Keras\`
+<br>
 A clinical data-driven machine learning model to predict heart disease risk using logistic regression and data visualization.
 
 <p> <a href="https://github.com/HARINII2415/cardiovasculardisesase" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://cardiovasculardisesase-1.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
