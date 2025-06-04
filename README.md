@@ -48,8 +48,7 @@
 ## 🛠️ My Tech Playground 🎨
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,figma,azure,bootstrap,github,git,mysql,vscode,tailwind,mongodb,keras,numpy,pandas,open-cv,tensorflow,fastapi &theme=light&perline=11" alt="Tech Skills Icons"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,figma,azure,bootstrap,github,git,mysql,vscode,tailwind,mongodb,keras,numpy,pandas,opencv,tensorflow,fastapi&theme=light&perline=11" alt="Tech Skills Icons"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge"/>
