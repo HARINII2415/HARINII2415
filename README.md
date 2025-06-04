@@ -79,7 +79,7 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
 </p>
 <br><br>
-### ❤️ Cardiovascular Disease Detector
+## ❤️ Cardiovascular Disease Detector
 *Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`TensorFlow/Keras\` <br>
 A clinical data-driven machine learning model to predict heart disease risk using logistic regression and data visualization.
 
