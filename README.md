@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Java+Full+Stack+Learner;Creative+Tech+Explorer" alt="Typing Intro - Vanakkam, I'm Harinii, Aspiring Data Scientist, Analytics Enthusiast, Java Full Stack Learner, Creative Tech Explorer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Vanakkam+%F0%9F%91%8B+I'm+Harinii;Aspiring+Data+Scientist;Analytics+Enthusiast;Java+Full+Stack+Learner;Creative+Tech+Explorer;CEO+of+Thinkbotics" alt="Typing Intro - Vanakkam, I'm Harinii, Aspiring Data Scientist, Analytics Enthusiast, Java Full Stack Learner, Creative Tech Explorer"/>
 </p>
 
 <p align="center">
@@ -29,6 +29,8 @@
 💕 I find joy in vibrant colors, insightful dashboards, fluid animations, and transforming data into meaningful narratives.
 
 📈 On a continuous journey to evolve into a **Creative Data Engineer & versatile Full Stack Developer**.
+
+🤖 If you want DataScience projects contact-[think-botics.vercel.app](https://think-botics.vercel.app) 
 
 <p align="center">
   Discover more about my projects and journey:
@@ -116,7 +118,7 @@ A health analytics web application to predict diabetes risk based on HbA1c level
 Empowering women's health by predicting cycle trends, irregularities, and giving health tips using data science.
 
 <p> <a href="https://github.com/HARINII2415/-Menstrual-cycle-Personal-Recommender-Leo-AI" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://menstrual-cycle-personal-recommender-leo-2dfa.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p><br><br>
-#### 🎮 Gesture-Controlled Gaming App
+<h3> 🎮 Gesture-Controlled Gaming App</h3>
 Tech Stack: Python, OpenCV, MediaPipe, PyAutoGUI
 A fun AI project where hand gestures control game interactions in real time using computer vision!
 
@@ -162,7 +164,15 @@ A fun AI project where hand gestures control game interactions in real time usin
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
+<h2>Contact ☎️ </h2>
+<p align="center">
+🧠 CEO & Founder – Thinkbotics
+🚀 Freelance Tech Company for Data Science & Full Stack Projects
+📍 Based in India | 🌍 Serving Clients Online
+📩 harinii2415@gmail.com
 
+
+</p>
 ---
 
 <p align="center">
