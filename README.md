@@ -48,7 +48,7 @@
 ## 🛠️ My Tech Playground 🎨
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,spring,html,css,js,figma,azure,bootstrap,github,git,mysql,vscode,idea,postman,maven,docker,tailwind,nodejs,express,mongodb,firebase,pytorch,tensorflow,kubernetes,nextjs,fastapi,grafana&theme=light&perline=11" alt="Tech Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,figma,azure,bootstrap,github,git,mysql,vscode,tailwind,mongodb,keras,numpy,pandas,open-cv,tensorflow,fastapi &theme=light&perline=11" alt="Tech Skills Icons"/>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
 </p>
 <br><br>
-❤️ Cardiovascular Disease Detector
+###❤️ Cardiovascular Disease Detector
 Tech Stack: Python, Pandas, Scikit-learn, Streamlit
 A clinical data-driven machine learning model to predict heart disease risk using logistic regression and data visualization.
 
@@ -102,7 +102,7 @@ A health analytics web application to predict diabetes risk based on HbA1c level
   
 </p>
 <br><br>
-🌸 Menstrual Cycle Health Analyzer
+###🌸 Menstrual Cycle Health Analyzer
 Tech Stack: Python, Matplotlib, Scikit-learn, Streamlit
 Empowering women's health by predicting cycle trends, irregularities, and giving health tips using data science.
 
