@@ -80,7 +80,7 @@ An intuitive web application that predicts skin cancer risk using image analysis
 </p>
 <br><br>
 ###❤️ Cardiovascular Disease Detector
-Tech Stack: Python, Pandas, Scikit-learn, Streamlit
+*Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`TensorFlow/Keras\` 
 A clinical data-driven machine learning model to predict heart disease risk using logistic regression and data visualization.
 
 <p> <a href="https://github.com/HARINII2415/cardiovasculardisesase" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://cardiovasculardisesase-1.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
@@ -102,7 +102,7 @@ A health analytics web application to predict diabetes risk based on HbA1c level
 </p>
 <br><br>
 ###🌸 Menstrual Cycle Health Analyzer
-Tech Stack: Python, Matplotlib, Scikit-learn, Streamlit
+*Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`Matplotlib\`
 Empowering women's health by predicting cycle trends, irregularities, and giving health tips using data science.
 
 <p> <a href="https://github.com/HARINII2415/-Menstrual-cycle-Personal-Recommender-Leo-AI" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://menstrual-cycle-personal-recommender-leo-2dfa.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Live%20App-%23FF69B4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p><br><br>
