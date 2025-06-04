@@ -79,7 +79,7 @@ An intuitive web application that predicts skin cancer risk using image analysis
   </a>
 </p>
 <br><br>
-<h3> ❤️ Cardiovascular Disease Detector</h3>
+<h3> 🫀 Cardiovascular Disease Detector</h3>
 
 **Tech Stack:** `Python`, `Scikit-learn`, `Streamlit`, `TensorFlow/Keras`  
 A clinical data-driven ML model to predict heart disease risk using logistic regression and data visualization.
@@ -110,7 +110,7 @@ A health analytics web application to predict diabetes risk based on HbA1c level
   
 </p>
 <br><br>
-### 🌸 Menstrual Cycle Health Analyzer
+<h3> 🌸 Menstrual Cycle Health Analyzer</h3>
 *Tech Stack:* \`Python\`, \`Scikit-learn\`, \`Streamlit\`, \`Matplotlib\`
 <br>
 Empowering women's health by predicting cycle trends, irregularities, and giving health tips using data science.
