@@ -30,7 +30,7 @@
 
 📈 On a continuous journey to evolve into a **Creative Data Engineer & versatile Full Stack Developer**.
 
-🤖 If you want DataScience projects contact-[think-botics.vercel.app](https://think-botics.vercel.app) 
+🤖 If you want **DataScience projects** contact-[think-botics.vercel.app](https://think-botics.vercel.app) 
 
 <p align="center">
   Discover more about my projects and journey:
